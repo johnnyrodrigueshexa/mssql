@@ -13,7 +13,8 @@ update statistics pbi_tb
 
 sp_whoisactive @get_avg_time = 1, @get_outer_command = 1, @get_plans = 1;
 
-
+NOVA VERSAO ATUALIZADA
+----------------------------------
 
 BUCKET\FIN
 GIRAFFE\MLL
